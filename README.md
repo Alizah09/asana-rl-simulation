@@ -36,3 +36,7 @@ asana-rl-simulation/
 │   └── utils/                  # Database and helper utilities
 └── output/
     └── asana_simulation.sqlite # Generated SQLite database
+```
+## Author
+- Amajad Ali
+- GenAI, NLP, LLM & RAG (ASNA Reinforcement Learning Simulation Project)
